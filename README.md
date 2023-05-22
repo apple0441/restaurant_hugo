@@ -8,12 +8,12 @@
     <img src="https://img.shields.io/static/v1?label=min-HUGO-version&message=0.62.0&color=f00&logo=hugo" />
   </a>
 
-  <a href="https://github.com/gethugothemes/restaurant-hugo/blob/master/LICENSE">
+  <a href="https://github.com/apple0441/restaurant-hugo/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/gethugothemes/restaurant-hugo" alt="license"></a>
 
   <img src="https://img.shields.io/github/languages/code-size/gethugothemes/restaurant-hugo" alt="code size">
 
-  <a href="https://github.com/gethugothemes/restaurant-hugo/graphs/contributors">
+  <a href="https://github.com/apple0441/restaurant-hugo/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/gethugothemes/restaurant-hugo" alt="contributors"></a>
 
   <a href="https://twitter.com/intent/follow?screen_name=gethugothemes">
@@ -70,7 +70,7 @@ Any changes you make in Forestry will be committed back to the repo and deployed
 ## ⚙️Deployment and hosting
 
 [![Deploy to
-Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gethugothemes/restaurant-hugo)
+Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/apple0441/restaurant-hugo)
 
 Follow the steps.
 
@@ -83,9 +83,9 @@ Build your website with **restaurant Hugo** theme by following these easy steps 
 ## 🐞Reporting Issues
 
 We use GitHub Issues as the official bug tracker for the restaurant Template. Please Search [existing
-issues](https://github.com/gethugothemes/restaurant-hugo/issues). Someone may have already reported the same problem.
+issues](https://github.com/apple0441/restaurant-hugo/issues). Someone may have already reported the same problem.
 If your problem or idea has not been addressed yet, feel free to [open a new
-issue](https://github.com/gethugothemes/restaurant-hugo/issues).
+issue](https://github.com/apple0441/restaurant-hugo/issues).
 
 ## 📱Submit Your Website To Our Showcase
 
@@ -103,7 +103,7 @@ View all the websites powered by Restaurant Hugo from [here](https://gethugothem
 Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by
 [Gethugothemes](https://gethugothemes.com)
 
-**Code License:** Released under the [MIT](https://github.com/gethugothemes/restaurant-hugo/blob/master/LICENSE) license.
+**Code License:** Released under the [MIT](https://github.com/apple0441/restaurant-hugo/blob/master/LICENSE) license.
 
 **Image license:** The images are only for demonstration purposes. They have their licenses. We don't have permission to
 share those images.
@@ -118,7 +118,7 @@ share those images.
 - [Wow](https://wowjs.uk)
 - [Font Awesome Icons](https://fontawesome.com)
 - [Venobox](https://veno.es/venobox/)
-- [All Contributors](https://github.com/gethugothemes/restaurant-hugo/graphs/contributors)
+- [All Contributors](https://github.com/apple0441/restaurant-hugo/graphs/contributors)
 
 ## 👨‍💻Hire Us
 
